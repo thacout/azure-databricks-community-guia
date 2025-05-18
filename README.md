@@ -17,4 +17,5 @@ Este repositório explica como acessar a versão **gratuita** do Azure Databrick
 - [Documentação do Databricks](https://docs.databricks.com/)
 
 
-![Tela de Registro](images/register-screen.png)
+![image](https://github.com/user-attachments/assets/088236e1-2e97-452e-995d-34f24c39d13d)
+
