@@ -16,6 +16,20 @@ Este repositório explica como acessar a versão **gratuita** do Azure Databrick
 - [Site Oficial do Databricks Community](https://community.cloud.databricks.com/)  
 - [Documentação do Databricks](https://docs.databricks.com/)
 
+# Como Criar uma Conta no Databricks Community  
+
+1. Acesse [https://community.cloud.databricks.com/](https://community.cloud.databricks.com/).  
+2. Clique em **"Get Started for Free"**.  
+3. Preencha o formulário com:  
+   - **Email corporativo ou pessoal** (não use domínios bloqueados como @gmail.com).  
+   - **Nome** e **Sobrenome**.  
+   - **Senha segura**.  
+4. Confirme seu e-mail (verifique a caixa de spam).  
+5. Após login, você terá acesso a um workspace gratuito.  
+
+⚠️ **Atenção**:  
+- A conta Community não suporta integração com Azure ou AWS.  
+- Clusters são automaticamente encerrados após 2 horas de inatividade.  
 
 ![image](https://github.com/user-attachments/assets/088236e1-2e97-452e-995d-34f24c39d13d)
 
